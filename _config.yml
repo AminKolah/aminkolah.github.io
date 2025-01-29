@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ebrahim (Amin) Kolahdouz / Beyond Boundaries"
+title                    : "Beyond Boundaries"
 title_separator          : "-"
 name                     : &name "Ebrahim (Amin) Kolahdouz"
 description              : &description "personal description"
