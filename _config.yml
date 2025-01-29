@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ebrahim (Amin) Kolahdouz / Beyond Boundaries"
 title_separator          : "-"
 name                     : &name "Ebrahim (Amin) Kolahdouz"
 description              : &description "personal description"
@@ -45,11 +45,12 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "aminkolah"
+  linkedin         : "aminkolah"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "https://bsky.app/profile/aminkolah.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "aminkolah.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,8 +58,7 @@ author:
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
-  lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/aminkolah"
+  lastfm           : "AminKolah"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

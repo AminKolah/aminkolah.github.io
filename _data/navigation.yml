@@ -5,6 +5,10 @@
 # prevent it from being included in the site.
 
 main:
+
+  - title: "Research"
+    url: /portfolio/
+    
   - title: "Publications"
     url: /publications/
 
@@ -13,15 +17,15 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+   
+  - title: "Galleries"
+    url: /Galleries/
         
-  - title: "Blog Posts"
+  - title: "News & Updates"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Contact Me"
     url: /markdown/
